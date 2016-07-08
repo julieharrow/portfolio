@@ -1,4 +1,13 @@
 /*THINGS I'VE ADDED BELOW*/
+#html_aboutme {
+  background: url(../images/nut.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:10000px;
+}
+
 #quote {
   text-align:left;
   font-style: italic;
@@ -17,7 +26,16 @@
   margin: 0;
 }
 
+.nav_item {
+  color: #8f8f8f;
+  font-family: "Oswald", sans-serif;
+  text-align:right;
+}
 
+body{
+  margin-top:50px;
+  padding:500px;
+}
 
 /*THINGS I'VE ADDED ABOVE*/
 
