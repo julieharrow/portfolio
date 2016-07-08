@@ -1,7 +1,7 @@
 // Sticky Header
 $(window).scroll(function() {
 
-    if ($(window).scrollTop() > 450) {
+    if ($(window).scrollTop() > 600) {
         $('.main_header').addClass('sticky');
     } else {
         $('.main_header').removeClass('sticky');
